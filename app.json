@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "MessiahGo",
+    "icon": "./src/Assets/IconsSplash/go.png",
+    "version": "1.0.3",
+    "slug": "your-app-slug",
+    "sdkVersion": "21.0.0",
+    "loading": {
+      "backgroundImage": "./src/Assets/IconsSplash/GoSplash.png"
+    },
+    "ios": {
+      "bundleIdentifier": "com.aGo.messiahGo",
+      "icon": "./src/Assets/IconsSplash/go1024.png"
+    },
+    "android": {
+      "package": "com.aGo.go",
+      "versionCode": "2"
+    }
+  }
+}

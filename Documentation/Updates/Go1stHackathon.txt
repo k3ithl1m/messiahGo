@@ -1,0 +1,3 @@
+Keith (Redux-Persist):
+- to get redux thunk and persist to work, we have to use compose from redux to put both of them together. because both applyMiddleware and autoRehydrate are store enhancers.
+https://github.com/rt2zz/redux-persist/issues/58

@@ -1,0 +1,1071 @@
+{
+  "events": [
+    {
+      "details": {
+        "name": "Homecoming Dance",
+        "location": "Brubaker",
+        "date": "2017-10-29",
+        "time": "20:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "Put on your dancing shoes and grab your friends for the 2017 Homecoming Dance!",
+        "type": ["Alumni", "Homecoming"],
+        "url": "http://homecoming.messiah.edu/"
+      },
+      "createdby": {
+        "username": "SAB",
+        "organizedby": "SAB",
+        "organizerimage":
+          "https://scontent.fagc1-2.fna.fbcdn.net/v/t1.0-9/20246219_10154781853769562_3443281799201725668_n.jpg?oh=01f6298fe1cdfc00a9b5fd528e5b2269&oe=5A72B4C1"
+      }
+    },
+    {
+      "details": {
+        "name": "Sports & Politics: Contextualizing the Take-A-Knee Movement",
+        "location": "Larsen Student Union",
+        "date": "2017-10-30",
+        "time": "20:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "Come be a part of healthy community dialogue and learning around sports and politics in general and the Take-A-Knee Movement in particular.",
+        "type": ["Career", "Networking"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "The Messiah College Division of Student Affairs presents",
+        "organizedby":
+          "The Messiah College Division of Student Affairs presents",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/circle_small.png"
+      }
+    },
+    {
+      "details": {
+        "name": "Into the City Mini: Leg Up Farm",
+        "location": "Resister at https://www.messiah.edu/career-events",
+        "date": "2017-11-1",
+        "time": "8:00-12:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "Not entirely sure what Leg Up Farm is but it sounds odd, so it may be worth the experience, or not if you would rather enjoy life.",
+        "type": ["Career", "Into the City"],
+        "url": "https://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Career and Professional Development Center",
+        "organizedby": "Career and Professional Development Center",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/circle_small.png"
+      }
+    },
+    {
+      "details": {
+        "name": "Pizza with Professionals: GoCorps",
+        "location": "Parmer Cinema",
+        "date": "2017-11-2",
+        "time": "12:00-13:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "Come check out GoCorps as you munch on some delicious pizza provided from the Larsen Student Union.",
+        "type": ["Career", "Networking"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Career and Professional Development Center",
+        "organizedby": "Career and Professional Development Center",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/circle_small.png"
+      }
+    },
+    {
+      "details": {
+        "name":
+          "Pizza with Professionals: The Bard Center for Environmental Policy",
+        "location": "Parmer Cinema",
+        "date": "2017-11-2",
+        "time": "16:00-17:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "Come check out The Bard Center of Environmental Policy as you munch on some delicious pizza provided from the Larsen Student Union.",
+        "type": ["Career", "Networking"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Career and Professional Development Center",
+        "organizedby": "Career and Professional Development Center",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/circle_small.png"
+      }
+    },
+    {
+      "details": {
+        "name": "Pizza with Professionals: Mennonite Central Committee",
+        "location": "Parmer Cinema",
+        "date": "2017-11-2",
+        "time": "12:00-13:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "Come check out Mennonite Central Committee as you munch on some delicious pizza provided from the Larsen Student Union.",
+        "type": ["Career", "Networking"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Career and Professional Development Center",
+        "organizedby": "Career and Professional Development Center",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/circle_small.png"
+      }
+    },
+    {
+      "details": {
+        "name": "Messiah Invitational, Wrestling",
+        "location": "Hitchcock Arena",
+        "date": "2017-11-4",
+        "time": "10:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "Come out to the newly refurbished up Hitchcock Arena, and watch as the Messiah Falcons wrestling team looks to dominate as they did last year.",
+        "type": ["Sports"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Messiah Athletics",
+        "organizedby": "Messiah Athletics",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/falcon_xl.png"
+      }
+    },
+    {
+      "details": {
+        "name": "Association of Christian Schools International Job Fair",
+        "location": "Brubaker Auditorium",
+        "date": "2017-11-6",
+        "time": "14:00-17:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "If you are interested in expanding your Christian studies all around the globe, then stop by Brubaker Auditorium for a job fair featuring all of the greatest international Christian schools.",
+        "type": ["Career", "Networking"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Career and Professional Development Center",
+        "organizedby": "Career and Professional Development Center",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/circle_small.png"
+      }
+    },
+    {
+      "details": {
+        "name": "Pizza with Professionals: Under Armour",
+        "location": "Parmer Cinema",
+        "date": "2017-11-7",
+        "time": "12:00-13:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "Come check out Under Armour as you munch on some delicious pizza provided from the Larsen Student Union.",
+        "type": ["Career", "Networking"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Career and Professional Development Center",
+        "organizedby": "Career and Professional Development Center",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/circle_small.png"
+      }
+    },
+    {
+      "details": {
+        "name": "Mocktails",
+        "location": "Boyer 131 then Martin Commons",
+        "date": "2017-11-10",
+        "time": "17:30-19:30",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "Since you cannot enjoy a good cocktail on Messiah's campus, come enjoy something even better... A Mocktail! After you enjoy your mocktail and networking in Boyer 131, stumble over to the Martin Commons at Lottie and turn up even more with a good ole bowl of cereal.",
+        "type": ["Career", "Networking"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Career and Professional Development Center",
+        "organizedby": "Career and Professional Development Center",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/circle_small.png"
+      }
+    },
+    {
+      "details": {
+        "name": "Karibu Night",
+        "location": "Brubaker Auditorium",
+        "date": "2017-11-11",
+        "time": "19:00-21:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "MARK YOUR CALENDARS! Don’t miss ASU’s biggest event of the year. There’s going to be fashion show, dance and so much more talent to show in addition to an amazing food. Entrance is FREE, just pick up your tickets from the ticket office before it runs out. You don’t wanna miss it!",
+        "type": ["International", "Multicultural"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "African Student Union",
+        "organizedby": "African Student Union",
+        "organizerimage":
+          "https://scontent.fagc1-2.fna.fbcdn.net/v/t1.0-9/11891972_995540457134528_7996718280849492208_n.jpg?oh=7f178956f281774b067ad3bcf49974a1&oe=5AA97996"
+      }
+    },
+
+    {
+      "details": {
+        "name": "Women's Basketball vs John Hopkins",
+        "location": "Hitchcock Arena",
+        "date": "2017-11-15",
+        "time": "18:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "Come on over to Hitchcock Arena and watch the Women's Basketball team take on John Hopkins if you have nothing better to do.",
+        "type": ["Sports"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Messiah Athletics",
+        "organizedby": "Messiah Athletics",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/falcon_xl.png"
+      }
+    },
+    {
+      "details": {
+        "name": "Men's Basketball vs Lancaster Bible",
+        "location": "Hitchcock Arena",
+        "date": "2017-11-15",
+        "time": "20:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "Following the women's basketball game stick around for the Men's Basketball game as they take on Brett Cataudella and the Lancaster Bible Chargers.",
+        "type": ["Sports"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Messiah Athletics",
+        "organizedby": "Messiah Athletics",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/falcon_xl.png"
+      }
+    },
+
+    {
+      "details": {
+        "name": "Men's Basketball vs Wilson",
+        "location": "Hitchcock Arena",
+        "date": "2017-11-17",
+        "time": "18:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "Come out and support the Men's Basketball team again as they look to continue their season against Wilson.",
+        "type": ["Sports"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Messiah Athletics",
+        "organizedby": "Messiah Athletics",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/falcon_xl.png"
+      }
+    },
+    {
+      "details": {
+        "name": "Women's Basketball vs Waynesburg",
+        "location": "Hitchcock Arena",
+        "date": "2017-11-17",
+        "time": "20:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "Continue to support the Women's Basketball team as they take on Waynseburg in a classic showdown between two powerhouse teams.",
+        "type": ["Sports"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Messiah Athletics",
+        "organizedby": "Messiah Athletics",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/falcon_xl.png"
+      }
+    },
+    {
+      "details": {
+        "name": "Swim Team vs Lycoming",
+        "location": "Swim Arena",
+        "date": "2017-11-18",
+        "time": "13:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "Feeling hot in this warm weather? Then stop by the pool as the swim team looks to make a splash against Lycoming to start their season.",
+        "type": ["Sports"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Messiah Athletics",
+        "organizedby": "Messiah Athletics",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/falcon_xl.png"
+      }
+    },
+    {
+      "details": {
+        "name": "Women's Basketball vs SUNY Geneseo",
+        "location": "Hitchcock Arena",
+        "date": "2017-11-18",
+        "time": "17:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "The Women's Baskeball team is taking on SUNY Geneseo for another great game that you just cannot afford to miss.",
+        "type": ["Sports"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Messiah Athletics",
+        "organizedby": "Messiah Athletics",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/falcon_xl.png"
+      }
+    },
+
+    {
+      "details": {
+        "name": "Men's Basketball vs Pitt-Greensburg",
+        "location": "Hitchcock Arena",
+        "date": "2017-11-25",
+        "time": "14:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "Come out and support the great Willie Hope as he and the rest of the Men's Basketball team takes on Pitt-Greensburg.",
+        "type": ["Sports"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Messiah Athletics",
+        "organizedby": "Messiah Athletics",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/falcon_xl.png"
+      }
+    },
+    {
+      "details": {
+        "name": "Swim Team vs Dickinson",
+        "location": "Swim Arena",
+        "date": "2017-11-28",
+        "time": "19:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "Come to the new bleachers section of the pool area or creepily watch from the new fitness center as the swim takes on Dickinson.",
+        "type": ["Sports"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Messiah Athletics",
+        "organizedby": "Messiah Athletics",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/falcon_xl.png"
+      }
+    },
+
+    {
+      "details": {
+        "name": "Messiah Petrofes, Wrestling",
+        "location": "Hitchcock Arena",
+        "date": "2017-12-1",
+        "time": "12:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description": "Come out and enjoy another long day of wrestling.",
+        "type": ["Sports"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Messiah Athletics",
+        "organizedby": "Messiah Athletics",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/falcon_xl.png"
+      }
+    },
+    {
+      "details": {
+        "name": "Messiah Petrofes, Wrestling",
+        "location": "Hitchcock Arena",
+        "date": "2017-12-2",
+        "time": "9:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description": "Stop by for the second day of a long wresting event.",
+        "type": ["Sports"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Messiah Athletics",
+        "organizedby": "Messiah Athletics",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/falcon_xl.png"
+      }
+    },
+    {
+      "details": {
+        "name": "Men's Basketball Team vs Arcadia",
+        "location": "Brubaker Auditorium",
+        "date": "2017-12-6",
+        "time": "18:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "Keep an eye on your drinks and lighters as Arcadia comes to town to face the Men's Basketball team.K",
+        "type": ["Sports"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Messiah Athletics",
+        "organizedby": "Messiah Athletics",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/falcon_xl.png"
+      }
+    },
+    {
+      "details": {
+        "name": "Women's Basketball vs Arcadia",
+        "location": "Hitchcock Arena",
+        "date": "2017-12-6",
+        "time": "20:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "Keep an eye on your drinks and lighters as Arcadia comes to town to face the Women's Basketball team.",
+        "type": ["Sports"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Messiah Athletics",
+        "organizedby": "Messiah Athletics",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/falcon_xl.png"
+      }
+    },
+
+    {
+      "details": {
+        "name": "Wrestling Team vs King's",
+        "location": "Hitchcock Arena",
+        "date": "2017-12-9",
+        "time": "13:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "Come to Hitchcock to find out who the real kings are as Messiah's Wrestling team takes on King's.",
+        "type": ["Sports"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Messiah Athletics",
+        "organizedby": "Messiah Athletics",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/falcon_xl.png"
+      }
+    },
+    {
+      "details": {
+        "name": "Women's Basketball vs Alvernia",
+        "location": "Swim Arena",
+        "date": "2017-12-9",
+        "time": "14:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "Come enjoy a great conference battle as Messiah's Women's Basketball team takes on Alvernia.",
+        "type": ["Sports"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Messiah Athletics",
+        "organizedby": "Messiah Athletics",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/falcon_xl.png"
+      }
+    },
+    {
+      "details": {
+        "name": "Men's Basketball vs Alvernia",
+        "location": "Brubaker Auditorium",
+        "date": "2017-12-9",
+        "time": "16:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "The Messiah's Men's Basketball team will be taking on Alvernia in a duel of some of the greatest shooters we've seen in decades, so come out and support them.",
+        "type": ["Sports"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Messiah Athletics",
+        "organizedby": "Messiah Athletics",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/falcon_xl.png"
+      }
+    },
+
+    {
+      "details": {
+        "name": "Men's Basketball vs Valley Forge",
+        "location": "Brubaker Auditorium",
+        "date": "2018-1-8",
+        "time": "19:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "Come out to this old school basketball game as Messiah's Men's Basketball tema takes on George Washington and Valley Forge in one of the coldest and deadliest basketball games ever played.",
+        "type": ["Sports"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Messiah Athletics",
+        "organizedby": "Messiah Athletics",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/falcon_xl.png"
+      }
+    },
+    {
+      "details": {
+        "name": "Men's Basketball vs Hood",
+        "location": "Brubaker Auditorium",
+        "date": "2018-1-10",
+        "time": "18:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "Once again the Men's Basketball team is playing. If you haven't gotten bored of them yet or have failed to show up for a game, you should stop by as the take on Hood.",
+        "type": ["Sports"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Messiah Athletics",
+        "organizedby": "Messiah Athletics",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/falcon_xl.png"
+      }
+    },
+    {
+      "details": {
+        "name": "Women's Basketball vs Hood",
+        "location": "Brubaker Auditorium",
+        "date": "2018-1-10",
+        "time": "20:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "If you're not bored of the Women's Basketball games yet either stick around as they play Hood too.",
+        "type": ["Sports"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Messiah Athletics",
+        "organizedby": "Messiah Athletics",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/falcon_xl.png"
+      }
+    },
+
+    {
+      "details": {
+        "name": "Swim Team vs King's / Arcadia",
+        "location": "Swim Arena",
+        "date": "2018-1-12",
+        "time": "17:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "Watch out again as Arcadia is back in town, this time they may try and put lighter fluid in the pool, so keep your eyes open for anything suspicious as the swim teams compete for gold.",
+        "type": ["Sports"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Messiah Athletics",
+        "organizedby": "Messiah Athletics",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/falcon_xl.png"
+      }
+    },
+    {
+      "details": {
+        "name": "Men's Basketball vs Lebanon Valley",
+        "location": "Brubaker Auditorium",
+        "date": "2018-1-17",
+        "time": "18:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "Want to see some sick dunks? Then don't stop by to see Messiah's Men's Basketballteam take on Lebanon Valley.",
+        "type": ["Sports"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Messiah Athletics",
+        "organizedby": "Messiah Athletics",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/falcon_xl.png"
+      }
+    },
+    {
+      "details": {
+        "name": "Women's Basketball vs Lebanon Valley",
+        "location": "Brubaker Auditorium",
+        "date": "2018-1-17",
+        "time": "20:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "Want to watch some WNBA caliber play? Probably not, but you won't get it anyway here as Messiah's Women's Basketball team takes on Lebanon Valley.",
+        "type": ["Sports"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Messiah Athletics",
+        "organizedby": "Messiah Athletics",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/falcon_xl.png"
+      }
+    },
+    {
+      "details": {
+        "name": "Swim Team vs Wilkes",
+        "location": "Swim Arena",
+        "date": "2018-1-20",
+        "time": "13:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "Come to the swim arena and watch as David Patawaran comes out of retirement to take on Wilkes in the best swim competition since the 2016 olympics.",
+        "type": ["Sports"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Messiah Athletics",
+        "organizedby": "Messiah Athletics",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/falcon_xl.png"
+      }
+    },
+    {
+      "details": {
+        "name": "Women's Basketball vs Lycoming",
+        "location": "Brubaker Auditorium",
+        "date": "2018-1-24",
+        "time": "18:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "As the Women's Basketball team takes on Lycoming, you may think why am I coming (Ha)? That's a good question, this one may be worth sitting out.",
+        "type": ["Sports"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Messiah Athletics",
+        "organizedby": "Messiah Athletics",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/falcon_xl.png"
+      }
+    },
+    {
+      "details": {
+        "name": "Men's Basketball vs Lycoming",
+        "location": "Brubaker Auditorium",
+        "date": "2018-1-24",
+        "time": "20:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "Once again Lycoming is in town, stop by if you love watching subpar basketball as Messiah's Men's team looks to pummel them.",
+        "type": ["Sports"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Messiah Athletics",
+        "organizedby": "Messiah Athletics",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/falcon_xl.png"
+      }
+    },
+    {
+      "details": {
+        "name": "Swim Team vs Lebanon Valley",
+        "location": "Swim Arena",
+        "date": "2018-1-27",
+        "time": "13:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "Bring your swimmies and pool noodles as the pool party v. Lebanon Valley begins at 1:00 sharp.",
+        "type": ["Sports"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Messiah Athletics",
+        "organizedby": "Messiah Athletics",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/falcon_xl.png"
+      }
+    },
+    {
+      "details": {
+        "name": "Men's Volleyball vs Lancaster Bible",
+        "location": "Hitchcock Arena",
+        "date": "2018-1-27",
+        "time": "19:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "Come out to watch the Falcons smash Lancaster Bible in an intense game of volleyball!",
+        "type": ["Sports"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Messiah Athletics",
+        "organizedby": "Messiah Athletics",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/falcon_xl.png"
+      }
+    },
+    {
+      "details": {
+        "name": "Women's Basketball vs Stevenson",
+        "location": "Brubaker Auditorium",
+        "date": "2018-1-31",
+        "time": "18:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "Enjoy an intense basketball game as Messiah's Women's team takes on Stevenson.",
+        "type": ["Sports"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Messiah Athletics",
+        "organizedby": "Messiah Athletics",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/falcon_xl.png"
+      }
+    },
+    {
+      "details": {
+        "name": "Men's Basketball vs Stevenson",
+        "location": "Brubaker Auditorium",
+        "date": "2018-1-31",
+        "time": "20:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "More basketball, YAY! This time the Men's team is taking on Stevenson in a battle for the Shoemaker Trophy.",
+        "type": ["Sports"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Messiah Athletics",
+        "organizedby": "Messiah Athletics",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/falcon_xl.png"
+      }
+    },
+    {
+      "details": {
+        "name": "Messiah Open, Wrestling",
+        "location": "Hitchcock",
+        "date": "2018-2-3",
+        "time": "10:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "It's time for the Messiah Open. Watch as Messiah's Wrestling team looks to take out their competition and retain the Rasputin Belt.",
+        "type": ["Sports"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Messiah Athletics",
+        "organizedby": "Messiah Athletics",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/falcon_xl.png"
+      }
+    },
+    {
+      "details": {
+        "name": "Swim Team vs Albright / Misericordia",
+        "location": "Swim Arena",
+        "date": "2018-2-3",
+        "time": "13:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "Watch as Albright and Misericordia team up to try and take down Messiah's Swim team. Too bad things won't be alright for them as we'll make them feel miserable.",
+        "type": ["Sports"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Messiah Athletics",
+        "organizedby": "Messiah Athletics",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/falcon_xl.png"
+      }
+    },
+    {
+      "details": {
+        "name": "Men's Volleyball vs Misericordia",
+        "location": "Hitchcock Arena",
+        "date": "2018-2-3",
+        "time": "14:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "Come out and watch as Messiah's Men's Volleyball team takes on Misericordia in a duel between two high caliber teams.",
+        "type": ["Sports"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Messiah Athletics",
+        "organizedby": "Messiah Athletics",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/falcon_xl.png"
+      }
+    },
+    {
+      "details": {
+        "name": "Women's Basketball vs Widener",
+        "location": "Brubaker Auditorium",
+        "date": "2018-2-7",
+        "time": "18:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "Come support Messiah's Women's team as they take on the bums of Widener.",
+        "type": ["Sports"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Messiah Athletics",
+        "organizedby": "Messiah Athletics",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/falcon_xl.png"
+      }
+    },
+    {
+      "details": {
+        "name": "Men's Basketball vs Widener",
+        "location": "Brubaker Auditorium",
+        "date": "2018-2-7",
+        "time": "20:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "Come out and watch as Messiah's Men's team takes on Widener University in a great basketball game.",
+        "type": ["Sports"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Messiah Athletics",
+        "organizedby": "Messiah Athletics",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/falcon_xl.png"
+      }
+    },
+    {
+      "details": {
+        "name": "Wrestling Team vs Elizabethtown",
+        "location": "Brubaker Auditorium",
+        "date": "2018-2-9",
+        "time": "19:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "Bring your brooms as Messiah's Wrestling team looks to sweep the floor against Elizabethtown.",
+        "type": ["Sports"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Messiah Athletics",
+        "organizedby": "Messiah Athletics",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/falcon_xl.png"
+      }
+    },
+    {
+      "details": {
+        "name": "Wrestling Team vs TCNJ",
+        "location": "Brubaker Auditorium",
+        "date": "2018-2-10",
+        "time": "12:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "This time bring your mops as you'll need to mop up the tears of TCNJ as they look to save some dignity against Messiah's wrestling team.",
+        "type": ["Sports"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Messiah Athletics",
+        "organizedby": "Messiah Athletics",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/falcon_xl.png"
+      }
+    },
+    {
+      "details": {
+        "name": "Women's Basketball vs Albright",
+        "location": "Brubaker Auditorium",
+        "date": "2018-2-10",
+        "time": "14:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "Get ready! Albright is in town. This means another great showdown of some of the greatest women's basketball we've seen in years.",
+        "type": ["Sports"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Messiah Athletics",
+        "organizedby": "Messiah Athletics",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/falcon_xl.png"
+      }
+    },
+    {
+      "details": {
+        "name": "Men's Basketball vs Albright",
+        "location": "Brubaker Auditorium",
+        "date": "2018-2-10",
+        "time": "16:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "Come check out the Messiah's Men's Basketball team take on Albright.",
+        "type": ["Sports"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Messiah Athletics",
+        "organizedby": "Messiah Athletics",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/falcon_xl.png"
+      }
+    },
+    {
+      "details": {
+        "name": "Men's Volleyball vs Arcadia",
+        "location": "Brubaker Auditorium",
+        "date": "2018-2-14",
+        "time": "19:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "This time Arcadia is coming to Messiah for a volleyball match. Once again keep an eye out for your drinks as they may try and put lighter fluid in it.",
+        "type": ["Sports"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Messiah Athletics",
+        "organizedby": "Messiah Athletics",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/falcon_xl.png"
+      }
+    },
+    {
+      "details": {
+        "name": "Men's Volleyball vs Stevenson",
+        "location": "Brubaker Auditorium",
+        "date": "2018-2-22",
+        "time": "19:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "Come watch as Messiah's Men's Volleyball team takes on Stevenson.",
+        "type": ["Sports"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Messiah Athletics",
+        "organizedby": "Messiah Athletics",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/falcon_xl.png"
+      }
+    },
+    {
+      "details": {
+        "name": "Men's Volleyball vs Widener",
+        "location": "Brubaker Auditorium",
+        "date": "2018-2-24",
+        "time": "19:30",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "Can't get enough of Men's Volleyball? Then come out and watch as Messiah's team takes on Widener University.",
+        "type": ["Sports"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Messiah Athletics",
+        "organizedby": "Messiah Athletics",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/falcon_xl.png"
+      }
+    },
+    {
+      "details": {
+        "name": "Men's Volleyball vs Alvernia",
+        "location": "Brubaker Auditorium",
+        "date": "2018-3-24",
+        "time": "14:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "Go support Messiah's Men's Volleyball team as they take on Alvernia and try to retain the Turenchalk trophy.",
+        "type": ["Sports"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Messiah Athletics",
+        "organizedby": "Messiah Athletics",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/falcon_xl.png"
+      }
+    },
+    {
+      "details": {
+        "name": "Men's Volleyball vs Wilkes",
+        "location": "Brubaker Auditorium",
+        "date": "2018-4-4",
+        "time": "19:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "Come out for one last game of regular season Men's Volleyball as they look to close out against Wilkes.",
+        "type": ["Sports"],
+        "url": "http://www.messiah.edu/career-events"
+      },
+      "createdby": {
+        "username": "Messiah Athletics",
+        "organizedby": "Messiah Athletics",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/falcon_xl.png"
+      }
+    }
+  ]
+}

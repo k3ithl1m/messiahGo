@@ -1,0 +1,14 @@
+newmessiahgo is the latest folder for messiahGo. The others are kept for referral when things go wrong. 
+agoChatAPI is the ChatAPI that we are going to work on developing and use. 
+
+Things to implement
+//modal when:
+	email has been sign up before
+	email is not verified
+	password incorrect
+
+
+Bugs
+//Sign Up email does not accept if it’s not all lowercase.
+
+Hey

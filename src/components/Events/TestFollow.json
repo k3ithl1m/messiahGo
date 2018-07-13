@@ -1,0 +1,67 @@
+{
+  "events": [
+    {
+      "details": {
+        "name": "Association of Christian Schools International Job Fair",
+        "location": "Brubaker Auditorium",
+        "date": "2017-11-06",
+        "time": "14:00-17:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "If you are interested in expanding your Christian studies all around the globe, then stop by Brubaker Auditorium for a job fair featuring all of the greatest international Christian schools.",
+        "type": ["Career", "Networking"],
+        "url": "http://www.messiah.edu/career-events",
+        "followers": ["joshua", "john"]
+      },
+      "createdby": {
+        "username": "Career and Professional Development Center",
+        "organizedby": "Career and Professional Development Center",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/circle_small.png"
+      }
+    },
+    {
+      "details": {
+        "name": "Pizza with Professionals: Under Armour",
+        "location": "Parmer Cinema",
+        "date": "2017-11-07",
+        "time": "12:00-13:00",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "Come check out Under Armour as you munch on some delicious pizza provided from the Larsen Student Union.",
+        "type": ["Career", "Networking"],
+        "url": "http://www.messiah.edu/career-events",
+        "followers": []
+      },
+      "createdby": {
+        "username": "Career and Professional Development Center",
+        "organizedby": "Career and Professional Development Center",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/circle_small.png"
+      }
+    },
+    {
+      "details": {
+        "name": "Mocktails",
+        "location": "Boyer 131 then Martin Commons",
+        "date": "2017-11-10",
+        "time": "17:30-19:30",
+        "image":
+          "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "description":
+          "Since you cannot enjoy a good cocktail on Messiah's campus, come enjoy something even better... A Mocktail! After you enjoy your mocktail and networking in Boyer 131, stumble over to the Martin Commons at Lottie and turn up even more with a good ole bowl of cereal.",
+        "type": ["Career", "Networking"],
+        "url": "http://www.messiah.edu/career-events",
+        "followers": ["joshua", "john"]
+      },
+      "createdby": {
+        "username": "Career and Professional Development Center",
+        "organizedby": "Career and Professional Development Center",
+        "organizerimage":
+          "https://www.messiah.edu/documents/visual_identity/images/marks/circle_small.png"
+      }
+    }
+  ]
+}
